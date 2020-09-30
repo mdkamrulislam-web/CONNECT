@@ -40,7 +40,7 @@
             <e p="ShowTimer.cs" t="Include" />
           </e>
         </e>
-        <e p="Unit_Test" t="Include">
+        <e p="TestCode" t="Include">
           <e p="EditMode" t="Include">
             <e p="DataTests.cs" t="Include" />
             <e p="EditMode.asmdef" t="Include" />

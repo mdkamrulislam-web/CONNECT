@@ -4,7 +4,7 @@ using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.TestTools;
 
-namespace Unit_Test.PlayMode
+namespace TestCode.PlayMode
 {
     public class HighScoreInterfaceTests
     {

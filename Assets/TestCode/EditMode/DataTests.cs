@@ -4,7 +4,7 @@ using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.TestTools;
 
-namespace Unit_Test.EditMode
+namespace TestCode.EditMode
 {
     public class DataTests
     {
