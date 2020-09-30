@@ -34,8 +34,7 @@ public static class Data
     }
     public static void UpdateTimeToData(int time)
     {
-       
-       
+
         timer = time;
     }
 

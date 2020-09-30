@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Kamrul Islam\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Kamrul Islam\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_CONNECT.1964719805.00" t="ExcludeRecursive" />
+    <e p="D:\470\CONNECT" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="MVC" t="Include">
+          <e p="Controller" t="Include">
+            <e p="DatabaseChecker.cs" t="Include" />
+            <e p="HighScoreInterface.cs" t="Include" />
+            <e p="LeaveGame.cs" t="Include" />
+            <e p="NavigationController.cs" t="Include" />
+            <e p="playercontrol.cs" t="Include" />
+            <e p="SubmitData.cs" t="Include" />
+            <e p="UpdateScore.cs" t="Include" />
+            <e p="UpdateTimer.cs" t="Include" />
+          </e>
+          <e p="Model" t="Include">
+            <e p="Data.cs" t="Include" />
+          </e>
+          <e p="Scripts.asmdef" t="Include" />
+          <e p="utility" t="Include">
+            <e p="ClassesToUse.cs" t="Include" />
+            <e p="ColliderScore.cs" t="Include" />
+            <e p="cubeMovement.cs" t="Include" />
+            <e p="follow.cs" t="Include" />
+            <e p="GreenCapsule.cs" t="Include" />
+            <e p="GreenScore.cs" t="Include" />
+            <e p="Instantiation.cs" t="Include" />
+            <e p="Timer.cs" t="Include" />
+          </e>
+          <e p="View" t="Include">
+            <e p="GameOver.cs" t="Include" />
+            <e p="HighScoreView.cs" t="Include" />
+            <e p="InputFieldView.cs" t="Include" />
+            <e p="MainMenu.cs" t="Include" />
+            <e p="MiniMap.cs" t="Include" />
+            <e p="ShowingUIScore.cs" t="Include" />
+            <e p="ShowTimer.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Unit_Test" t="Include">
+          <e p="EditMode" t="Include">
+            <e p="DataTests.cs" t="Include" />
+            <e p="EditMode.asmdef" t="Include" />
+            <e p="UpdateTimerTest.cs" t="Include" />
+          </e>
+          <e p="PlayMode" t="Include">
+            <e p="HighScoreInterfaceTests.cs" t="Include" />
+            <e p="PlayModeTest.asmdef" t="Include" />
+            <e p="ShowingUIScoreTest.cs" t="Include" />
+            <e p="UpdateScoreTests.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="CONNECT.sln" t="IncludeFlat" />
+      <e p="EditMode.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="PlayModeTest.csproj" t="IncludeRecursive" />
+      <e p="Scripts.csproj" t="IncludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
