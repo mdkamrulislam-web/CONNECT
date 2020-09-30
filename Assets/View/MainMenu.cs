@@ -23,14 +23,14 @@ public class MainMenu : MonoBehaviour
     {
         BackGround.color = new Color32(0,0,0,255);
         TextTitle.fontSize = 77;
-        TextTitle.text = "RedGame";
+        TextTitle.text = "CONNECT";
         TextTitle.font = Font1;
         TextTitle.color = Color.white;
         Play.font = Font2;
         Play.fontSize = 32;
         Play.text = "PLAY";
         Play.color = Color.white;
-        HighScore.text = "HIGHSCORE";
+        HighScore.text = "HIGH SCORE";
         HighScore.font = Font2;
         HighScore.fontSize = 32;
         HighScore.color = Color.white;
