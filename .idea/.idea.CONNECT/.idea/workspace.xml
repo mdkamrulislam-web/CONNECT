@@ -20,25 +20,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="457219da-c7a2-4523-bf03-951aeb15b514" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CONNECT/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CONNECT/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CONNECT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CONNECT/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/EditMode.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/EditMode/DataTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/EditMode/DataTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/EditMode/EditMode.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/EditMode/EditMode.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/EditMode/UpdateTimerTest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/EditMode/UpdateTimerTest.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/PlayMode.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/PlayMode/HighScoreInterfaceTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/PlayMode/HighScoreInterfaceTests.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/PlayMode/PlayModeTest.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/PlayMode/PlayModeTest.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/PlayMode/ShowingUIScoreTest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/PlayMode/ShowingUIScoreTest.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/PlayMode/UpdateScoreTests.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Unit_Test/PlayMode/UpdateScoreTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Controller.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/LazyDay.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/LazyDay.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/LazyDay/PNG.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/LazyDay/PNG.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/LazyDay/Sprites.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/LazyDay/Sprites.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/LazyDay/Vector.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/LazyDay/Vector.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/Playful.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/Playful.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/Playful/PNG.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/Playful/PNG.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/Playful/Sprites.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/Playful/Sprites.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/Playful/Vector.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/Playful/Vector.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/PreviewScenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/PreviewScenes.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/PurpleRock.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/PurpleRock.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/PurpleRock/PNG.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/PurpleRock/PNG.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/PurpleRock/Sprites.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/PurpleRock/Sprites.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/PurpleRock/Vector.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/PurpleRock/Vector.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/Readme.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/Readme.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/WoodenBlocks.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/WoodenBlocks.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/WoodenBlocks/PNG.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/WoodenBlocks/PNG.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/WoodenBlocks/Sprites.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/WoodenBlocks/Sprites.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/WoodenBlocks/Vector.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/WoodenBlocks/Vector.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/WoodenBlocks/Vector/Vector Files.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Game GUI Vol1/WoodenBlocks/Vector/Vector Files.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Model.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Model.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Scenes.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Tree_Textures.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/Tree_Textures.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/Unit_Test.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/View.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/View.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MVC/utility.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MVC/utility.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +99,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../New folder\RedGame.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\470\New folder" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
